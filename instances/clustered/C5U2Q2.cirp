@@ -1,0 +1,12 @@
+INSTANCE:   C5U2Q2
+TIME H:     18
+N VEHICLES: 3
+CAP Q:      88
+
+NODE      XCOORD    YCOORD    USAGE     STORAGE   
+0         0         0         0         0         
+1         2.18      2.77      12.1      132       
+2         2.42      -2.46     4.4       44        
+3         2.98      2.55      8.8       64        
+4         2.43      -2.75     5.5       65        
+5         2.59      2.7       13.2      120       

@@ -1,0 +1,12 @@
+INSTANCE:   R5U3Q1
+TIME H:     18
+N VEHICLES: 4
+CAP Q:      66
+
+NODE      XCOORD    YCOORD    USAGE     STORAGE   
+0         0         0         0         0         
+1         2.22      -1.53     13.2      132       
+2         3.16      3.67      4.8       44        
+3         2.68      -2.41     9.6       64        
+4         -1.56     2.12      6         65        
+5         -1.6      0.45      14.4      120       
